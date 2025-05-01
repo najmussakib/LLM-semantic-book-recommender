@@ -6,6 +6,6 @@
 
 - `Zero-Shot Classification`: Used LLMs to classify books as fiction or non-fiction without training data.
 
-`Sentiment & Emotion Analysis`: Extracted emotional tone (e.g., suspenseful, joyful) from book descriptions to enhance recommendations.
+- `Sentiment & Emotion Analysis`: Extracted emotional tone (e.g., suspenseful, joyful) from book descriptions to enhance recommendations.
 
-`Web App Deployment`: Created an interactive Gradio interface for users to explore and filter book recommendations.
+- `Web App Deployment`: Created an interactive Gradio interface for users to explore and filter book recommendations.
